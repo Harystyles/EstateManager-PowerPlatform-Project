@@ -47,10 +47,10 @@ The following processes were taken during the testing exercise.
 
 _kindly note that this process is not in the order listed_
 
-- Unit Test
+- Unit Test: To write tests using Power Apps expressions and to test all functionalities in a web browser
 - Monitor: To trace events as they occur in a canvas app during the authoring experience in Power Apps Studio. It was also used Monitor to debug the published version of a canvas app
 - Beta testing: Engaged potential users to use the app before its lunch
 - User Acceptance Test: Presented a demo session to engage the sponsors of the app
-- Change Management: Demo the app to the technical team
-- 
+- Change Management: Demo the app to the technical team and handover to the support team
+  
 ----
