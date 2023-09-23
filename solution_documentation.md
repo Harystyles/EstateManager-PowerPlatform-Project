@@ -1,11 +1,13 @@
-# Go to the UserGuide file
+# Go to the UserGuide file 
+
+[User guide file](https://github.com/Harystyles/EstateManager/blob/main/UserGuideEstateManager.pdf)!
 
 
 ## Power Automate Cloud Flows
 
 The function used is called the Power Fx, and this was used in various parts of the application to achieve the needed behaviours.
 
-The function below was used to validate user's data before previewing the record, and eventually updating it in SharePoint 
+The function below was used to validate the user's data before previewing the record, and eventually updating it in SharePoint 
 
 #### Function is written on the "Visible" property
 ----
