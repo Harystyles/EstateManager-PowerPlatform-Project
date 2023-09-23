@@ -1,6 +1,6 @@
 # Go to the UserGuide file 
 
-[User guide file](https://github.com/Harystyles/EstateManager/blob/main/UserGuideEstateManager.pdf)!
+[Check out the User guide file](https://github.com/Harystyles/EstateManager/blob/main/UserGuideEstateManager.pdf)!
 
 
 ## Power Automate Cloud Flows
