@@ -1,22 +1,19 @@
-# CUGManager
+# Estate Manager Project Solution
 
-Estate Manager (V1.0.0) User Guide
+# Estate Manager (V1.0.0)
 
+This repository contains the solution for the Estate Manager Canvas App (Power Apps). See below the services and screens of the business application.
 
-Welcome screen: This screen is the initial screen you will see when open the app. This shows the available services to interact with. It contains 4 services in which the close out service is only available to the Estate Teams.
+The codes were optimized for speed, stability, reusability, and efficiency.
 
+# Welcome screen
+This screen is the initial screen you will see when open the app. This shows the available services to interact with. It contains 4 services; however, the close-out service is only available to the Estate Teams/ facility management team.
 
+   ![](image.png)
 
+# Guest House Service
 
-
-
-
-
-
-
-Guest house service
-
-Guest house service: This service allows you to create and view guest house request/bookings.
+Guest house service: This service allows you to create and view guest house requests/bookings.
 
 
 Guest house booking: This allows you to create a new booking request after agreeing to the booking guidelines.
