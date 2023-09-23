@@ -42,6 +42,7 @@ Switch(
 );
 ```
 ## Testing and Go-Live
+### Write, organize, and automate tests for canvas apps, then deploy
 
 The following processes were taken during the testing exercise.
 
